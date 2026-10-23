@@ -3,4 +3,4 @@ I am an Aspiring IT support professional with hands-on experience troubleshootin
 ### IT projects and related home labs
 - Windows Server and AD installation
 ### Certificates
-- WIP: CompTIA A+
+- WIP: CompTIA A+ 1202 (1201 Passed)
